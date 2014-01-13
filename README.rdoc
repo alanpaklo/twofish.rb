@@ -1,9 +1,12 @@
 Add by master again
 Add by master
 Add by b2
+<<<<<<< HEAD
 
 onefish
 Add by b2
+=======
+>>>>>>> d9aeca3be725eb65784624abe6ce21fb7c4427cb
 
 = twofish.rb
 
