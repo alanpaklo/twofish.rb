@@ -5,7 +5,6 @@ Add by b2
 
 onefish
 Add by b2
-
 = twofish.rb
 
 Author:: Martin Carpenter
